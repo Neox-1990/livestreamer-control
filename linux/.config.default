@@ -1,0 +1,1 @@
+player=vlc --file-caching 10000 --network-caching 10000
